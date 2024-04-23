@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h1{
+    font-family: "Merriweather", serif;
+}
+
+p{
+    font-family: "Open Sans", sans-serif;
+}
+
+html{
+    overflow-x: hidden;
+}
